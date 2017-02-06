@@ -1,0 +1,13 @@
+{
+  "title": "Spryker Component",
+  "description": "Integration component to talk to Spryker",
+  "credentials": {
+    "fields": {
+      "name": {
+        "label": "My API Key",
+        "required": true,
+        "viewClass": "TextFieldView"
+      }
+    }
+  }
+}
